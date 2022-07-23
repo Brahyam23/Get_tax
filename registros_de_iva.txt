@@ -1,0 +1,5 @@
+Importe bruto:50000, Impuesto:21, Importe neto:60500.0
+Importe bruto:60000, Impuesto:50, Importe neto:90000.0
+Importe bruto:50000, Impuesto:21, Importe neto:60500.0
+Importe bruto:73000, Impuesto:21, Importe neto:88330.0
+Importe bruto:34000, Impuesto:30, Importe neto:44200.0
